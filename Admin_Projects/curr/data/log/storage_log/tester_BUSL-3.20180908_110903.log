@@ -1,0 +1,4 @@
+[20180908_110903 / libfx.py:3526] _BUSL_3__Expert__Above_BB_1S__20180903(lo_BarDatas) => starts -------------
+file = 44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_110903 / libfx.py:3572] lenOf_LO_BarDatas => 200

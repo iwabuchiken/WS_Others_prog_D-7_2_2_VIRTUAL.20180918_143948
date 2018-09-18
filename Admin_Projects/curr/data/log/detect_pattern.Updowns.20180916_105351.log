@@ -1,0 +1,5 @@
+
+[libfx.py:3938] BUSL_3__Res_1__DetectPatterns__UpDownPattern starting... =========
+[libfx.py:4024] detected (19) : (2018.08.22 19:00)	(2018.08.23 02:00)
+[libfx.py:4024] detected (154) : (2018.08.30 10:00)	(2018.08.30 17:00)
+[libfx.py:4024] detected (161) : (2018.08.30 17:00)	(2018.08.31 00:00)

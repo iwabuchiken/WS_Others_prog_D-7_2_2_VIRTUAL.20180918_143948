@@ -1,0 +1,76 @@
+{% load taglib_curr %}
+
+buy ups, sell downs !!!
+<hr>
+
+    <div>
+    
+        <input value="{{ dpath_Images }}" id="ipt_Curr_Tester_BUSL_DpathImages"/>
+        
+    
+    </div>
+
+
+    <div id="div_Curr_Tester_BUSL__Tbl">
+    
+        <table id="tbl_Curr_Tester_BUSL">
+            
+            {% for item in lo_Files %}
+                <tr>
+                    <td>
+                        {{forloop.counter}}
+                    </td>
+                   
+                   
+                   <td>
+                   
+                       {% get_CurrencyPair_Name item %}
+                   
+                   </td>
+                   
+                   <td>
+                   
+                       <!-- <a href = "http://127.0.0.1:8000/curr/gen_peak_data/?currency_pair={{ currency_pair}}&data_file={{ item }}"> -->
+                        
+                        {{ item }}
+                        
+                       <!-- </a> -->
+                   
+                   </td>
+                   
+                   <td>
+                    
+                        <button 
+                                onclick="exec_Tester_BUSL('{{ item }}')"
+                                class = "bt_Numbering_List"
+                                id = "{{ forloop.counter0 }}"
+                            >
+                        
+                            GO
+                        <!-- onclick="exec_Numbering('{{ item }}')" -->
+                        <!-- id = "bt_Exec_Numbering_{{ forloop.counter0 }}" -->
+                        </button>
+                    
+                   </td>
+                   
+                   
+                </tr>
+            
+            {% endfor %}
+        
+        </table>
+
+    </div><!-- <div id="div_Curr_Tester_BUSL__Tbl"> -->
+
+<hr>
+    <div id="div_Curr_Basics_Gen_PeakData_Message_Area">
+    
+       {{ message }}
+    
+    </div><!-- <div id="div_Curr_Basics_Gen_PeakData_Message_Area"> -->
+    
+    <div id="div_Curr_Basics_Gen_PeakData_Result_Area">
+    
+       
+    
+    </div><!-- <div id="div_Curr_Basics_Gen_PeakData_Result_Area"> -->

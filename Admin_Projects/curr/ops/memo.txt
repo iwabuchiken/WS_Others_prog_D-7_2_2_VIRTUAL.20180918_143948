@@ -1,0 +1,3 @@
+fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_11_file-io.EURJPY.Period-M5.Days-25000.Bars-25000.20180813_120112.csv
+total = 24999 / UPs = 12381 (ratio = 0.495) / DOWNs = 12230 (ratio = 0.489) / NextUps = 5861 (ratio = 0.234) / NextUp_Above_BB_Main = 4154 (ratio = 0.166)
+total = 24999 / UPs = 12381 (ratio = 0.495) / DOWNs = 12230 (ratio = 0.489) / NextUps = 5861 (ratio = 0.234) / NextUp_Above_BB_1S = 2795 (ratio = 0.112)

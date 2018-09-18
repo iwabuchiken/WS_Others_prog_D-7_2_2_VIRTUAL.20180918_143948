@@ -1,0 +1,26 @@
+{% load taglib_basic %}
+
+
+<div id="div_MM_Actions">
+
+    <!-- ref https://stackoverflow.com/questions/1392706/django-template-how-to-make-a-dropdown-box-with-the-predefined-value-selected -->
+    <select name="mm_action" id="select_MM_Actions">
+    
+       {% for item in lo_Commands %}
+       
+        <option value="{{ item.0 }}" class="opt_MM_Actions">{{ item.1 }}</option>
+    
+       {% endfor %}
+       
+     </select>
+     
+     <button 
+             onclick="mm_Index_GO()"
+             class = "bt_Index_List_Action"
+             >
+          GO
+     </button>
+
+</div>
+
+    

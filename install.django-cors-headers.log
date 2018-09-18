@@ -1,0 +1,13 @@
+(env) C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects>pip install dj
+ango-cors-headers
+Collecting django-cors-headers
+  Cache entry deserialization failed, entry ignored
+  Cache entry deserialization failed, entry ignored
+  Downloading https://files.pythonhosted.org/packages/b1/bc/0414cf96a2e4a917b1f5
+3b638f34f4999cc9a97fadbd1420054cc11b4ad2/django_cors_headers-2.2.0-py2.py3-none-
+any.whl
+Installing collected packages: django-cors-headers
+Successfully installed django-cors-headers-2.2.0
+You are using pip version 9.0.1, however version 10.0.1 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' comm
+and.

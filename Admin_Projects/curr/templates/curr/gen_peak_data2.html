@@ -1,0 +1,88 @@
+{% load taglib_curr %}
+
+    gen_peak_data
+    <hr>
+    <br>
+    <br>
+    {{ msg }}
+    <br>
+    currency_pair => '{{ currency_pair }}'
+    <br>
+    <!-- ref https://docs.djangoproject.com/en/2.0/ref/templates/builtins/#length -->
+    lo_Files => {{ lo_Files|length }}
+
+    <div>
+    
+        <input value="{{ MAIN_DIR }}" id="ipt_Numbering_MainDir"/>
+        
+    
+    </div>
+
+    <hr>
+    
+    <div id="div_Numbering_Content">
+    
+        <table id="tbl_Curren_Gen_PeakData">
+            
+            {% for item in lo_Files %}
+                <tr>
+                    <td>
+                        {{forloop.counter}}
+                    </td>
+                   
+                   
+                   <td>
+                   
+                       {% get_CurrencyPair_Name item %}
+                   
+                   </td>
+                   
+                   <td>
+                   
+                       <!-- <a href = "http://127.0.0.1:8000/curr/gen_peak_data/?currency_pair={{ currency_pair}}&data_file={{ item }}"> -->
+                        
+                        {{ item }}
+                        
+                       <!-- </a> -->
+                   
+                   </td>
+                   
+                   <td>
+                    
+                        <button 
+                                onclick="exec_GenPeakData('{{ item }}')"
+                                class = "bt_Numbering_List"
+                                id = "{{ forloop.counter0 }}"
+                            >
+                        
+                            GO
+                        <!-- onclick="exec_Numbering('{{ item }}')" -->
+                        <!-- id = "bt_Exec_Numbering_{{ forloop.counter0 }}" -->
+                        </button>
+                    
+                   </td>
+                   
+                   
+                </tr>
+            
+            {% endfor %}
+        
+        </table>
+
+    </div><!-- <div id="div_Numbering_Content"> -->
+
+    <hr>
+    
+    <div id="index_Display_Area">
+    
+    </div>
+    
+    <div id="index_Message_Area">
+    
+    
+    </div>
+    
+    <div id="index_Area__Result">
+    
+    
+    </div>

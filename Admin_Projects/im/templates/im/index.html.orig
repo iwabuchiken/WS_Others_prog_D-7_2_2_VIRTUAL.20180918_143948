@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    
+    <title>{% block title %}Image Manager{% endblock %}</title>
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
+    
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'im/css/reset.css' %}">
+    <link rel="stylesheet" href="{% static 'im/css/style.css' %}">
+    
+    <link rel="stylesheet" href="{% static 'im/css/main.css' %}">
+    
+    <script src="{% static 'im/js/jquery.js' %}"></script>
+    <script src="{% static 'im/js/main.js' %}"></script>
+    
+</head>
+    
+<body>
+    
+    {% include 'im/partials/index_table.html' %}
+
+    <hr>
+    
+    <div id="index_Message_Area">
+    
+    
+    </div>
+    
+    <div id="index_Area__Result">
+    
+    
+    </div>
+    
+    
+</body>
+</html>

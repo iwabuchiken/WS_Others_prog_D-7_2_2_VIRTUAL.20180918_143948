@@ -1,0 +1,24 @@
+########################
+#
+#	file type
+#
+########################
+*.png
+*.jpg
+*.whl
+
+########################
+#
+#	directories
+#
+########################
+### 2018/09/18 14:31:09
+env/
+Include/
+Lib/
+Scripts/
+tcl/
+.ipynb_checkpoints/
+
+Admin_Projects/curr/data/csv/
+Admin_Projects/curr/data/csv_raw/

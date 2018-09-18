@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    
+    <title>{% block title %}Mindmap Manager{% endblock %}</title>
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
+    
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'mm/css/reset.css' %}">
+    <link rel="stylesheet" href="{% static 'mm/css/style.css' %}">
+    
+    <link rel="stylesheet" href="{% static 'mm/css/main.css' %}">
+    
+    <script src="{% static 'mm/js/jquery.js' %}"></script>
+    <script src="{% static 'mm/js/main.js' %}"></script>
+    
+    <!-- ref http://uxmilk.jp/41847 -->
+    <script type="text/javascript" src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+    
+    
+</head>
+    
+<body>
+
+        <!-- ref https://oncampus.oberlin.edu/webteam/2012/09/architecture-django-templates -->
+        <div id="main" role="main">
+            <div class="container">
+                {% block content %}
+                {% endblock %}
+            </div>
+        </div>
+
+    <div id = "layout_Links_Basic">
+    
+        {% include 'mm/partials/layouts/__layouts_links_basic.html' %}
+    
+    </div>
+    
+</body>
+</html>

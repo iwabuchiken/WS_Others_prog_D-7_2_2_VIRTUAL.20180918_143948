@@ -1,0 +1,12 @@
+{% extends "mm/layouts/__base.html" %}
+
+{% load taglib_curr %}
+
+{% get_CurrencyPair_Name "yes,yes" %}
+
+{% block content %}
+
+    {% include 'curr/gen_peak_data.html' %}
+	
+{% endblock %}
+    

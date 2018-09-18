@@ -1,0 +1,842 @@
+[20180903_140442 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180903_140444 / libfx.py:1964] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_11_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180813_115015.SHRINK-1000.csv
+
+[20180903_141524 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180903_141525 / libfx.py:1964] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_11_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180813_115015.SHRINK-1000.csv
+
+[20180903_141707 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180903_141708 / libfx.py:1964] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180903_141708 / libfx.py:3116] _BUSL_3__Expert__Above_BB_1S__20180903(lo_BarDatas) => starts -----------------------
+
+[20180903_141708 / libfx.py:3156] lenOf_LO_BarDatas => 5000
+[20180905_102621 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180905_102623 / libfx.py:1964] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180905_102624 / libfx.py:3116] _BUSL_3__Expert__Above_BB_1S__20180903(lo_BarDatas) => starts -----------------------
+
+[20180905_102624 / libfx.py:3156] lenOf_LO_BarDatas => 5000
+[20180905_102624 / libfx.py:3219] cntOf_Total => 4999
+[20180905_103257 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180905_103258 / libfx.py:1964] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180905_103258 / libfx.py:3116] _BUSL_3__Expert__Above_BB_1S__20180903(lo_BarDatas) => starts -----------------------
+
+[20180905_103258 / libfx.py:3156] lenOf_LO_BarDatas => 200
+[20180905_103258 / libfx.py:3234] cntOf_Total => 199
+[20180905_171948 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180905_171950 / libfx.py:1964] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180905_171950 / libfx.py:3116] _BUSL_3__Expert__Above_BB_1S__20180903(lo_BarDatas) => starts -----------------------
+
+[20180905_171950 / libfx.py:3156] lenOf_LO_BarDatas => 200
+[20180905_171950 / libfx.py:3234] cntOf_Total => 199
+[20180905_172114 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180905_172114 / libfx.py:1964] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180905_172114 / libfx.py:3116] _BUSL_3__Expert__Above_BB_1S__20180903(lo_BarDatas) => starts -----------------------
+
+[20180905_172114 / libfx.py:3156] lenOf_LO_BarDatas => 200
+[20180905_172114 / libfx.py:3234] cntOf_Total => 199
+[20180905_172206 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180905_172206 / libfx.py:1964] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-100.csv
+
+[20180905_172301 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180905_172301 / libfx.py:1964] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-100.csv
+
+[20180905_172301 / libfx.py:3116] _BUSL_3__Expert__Above_BB_1S__20180903(lo_BarDatas) => starts -----------------------
+
+[20180905_172302 / libfx.py:3156] lenOf_LO_BarDatas => 100
+[20180905_172302 / libfx.py:3234] cntOf_Total => 99
+[20180905_173820 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180905_173820 / libfx.py:1964] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-100.csv
+
+[20180905_173820 / libfx.py:3116] _BUSL_3__Expert__Above_BB_1S__20180903(lo_BarDatas) => starts -----------------------
+
+[20180905_173821 / libfx.py:3156] lenOf_LO_BarDatas => 100
+[20180905_173821 / libfx.py:3286] setting the flag... (2018.08.28 12:00 / close = 129.998 / +1S = 129.897)
+[20180905_173821 / libfx.py:3249] bar => down. Hold position... (2018.08.28 13:00 / close = 129.955 / +1S = 129.928)
+[20180905_173821 / libfx.py:3249] bar => down. Hold position... (2018.08.28 14:00 / close = 129.843 / +1S = 129.946)
+[20180905_173821 / libfx.py:3249] bar => down. Hold position... (2018.08.28 15:00 / close = 129.808 / +1S = 129.956)
+[20180905_173821 / libfx.py:3226] bar => up. Close the position... (2018.08.28 16:00 / close = 129.941 / +1S = 129.964)
+
+[20180905_173821 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.28 17:00 / close = 129.878 / +1S = 129.958)
+[20180905_173821 / libfx.py:3286] setting the flag... (2018.08.28 18:00 / close = 129.880 / +1S = 129.946)
+[20180905_173821 / libfx.py:3226] bar => up. Close the position... (2018.08.28 19:00 / close = 129.928 / +1S = 129.937)
+
+[20180905_173821 / libfx.py:3286] setting the flag... (2018.08.28 20:00 / close = 129.933 / +1S = 129.943)
+[20180905_173821 / libfx.py:3226] bar => up. Close the position... (2018.08.28 21:00 / close = 130.088 / +1S = 129.970)
+
+[20180905_173821 / libfx.py:3286] setting the flag... (2018.08.28 22:00 / close = 130.140 / +1S = 130.002)
+[20180905_173821 / libfx.py:3226] bar => up. Close the position... (2018.08.28 23:00 / close = 130.239 / +1S = 130.045)
+
+[20180905_173821 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.29 00:00 / close = 130.191 / +1S = 130.076)
+[20180905_173821 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.29 01:00 / close = 130.134 / +1S = 130.096)
+[20180905_173821 / libfx.py:3286] setting the flag... (2018.08.29 02:00 / close = 130.159 / +1S = 130.116)
+[20180905_173821 / libfx.py:3249] bar => down. Hold position... (2018.08.29 03:00 / close = 130.122 / +1S = 130.126)
+[20180905_173821 / libfx.py:3249] bar => down. Hold position... (2018.08.29 04:00 / close = 130.073 / +1S = 130.131)
+[20180905_173821 / libfx.py:3249] bar => down. Hold position... (2018.08.29 05:00 / close = 130.016 / +1S = 130.134)
+[20180905_173821 / libfx.py:3226] bar => up. Close the position... (2018.08.29 06:00 / close = 130.024 / +1S = 130.135)
+
+[20180905_173821 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.29 07:00 / close = 129.982 / +1S = 130.136)
+[20180905_173821 / libfx.py:3286] setting the flag... (2018.08.29 08:00 / close = 130.014 / +1S = 130.137)
+[20180905_173821 / libfx.py:3249] bar => down. Hold position... (2018.08.29 09:00 / close = 129.965 / +1S = 130.137)
+[20180905_173821 / libfx.py:3226] bar => up. Close the position... (2018.08.29 10:00 / close = 129.998 / +1S = 130.138)
+
+[20180905_173821 / libfx.py:3286] setting the flag... (2018.08.29 11:00 / close = 130.006 / +1S = 130.137)
+[20180905_173821 / libfx.py:3226] bar => up. Close the position... (2018.08.29 12:00 / close = 130.105 / +1S = 130.143)
+
+[20180905_173821 / libfx.py:3286] setting the flag... (2018.08.29 13:00 / close = 130.113 / +1S = 130.149)
+[20180905_173821 / libfx.py:3249] bar => down. Hold position... (2018.08.29 14:00 / close = 130.089 / +1S = 130.150)
+[20180905_173821 / libfx.py:3249] bar => down. Hold position... (2018.08.29 15:00 / close = 129.773 / +1S = 130.160)
+[20180905_173821 / libfx.py:3226] bar => up. Close the position... (2018.08.29 16:00 / close = 129.800 / +1S = 130.165)
+
+[20180905_173821 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.29 17:00 / close = 129.703 / +1S = 130.168)
+[20180905_173821 / libfx.py:3286] setting the flag... (2018.08.29 18:00 / close = 129.738 / +1S = 130.160)
+[20180905_173821 / libfx.py:3226] bar => up. Close the position... (2018.08.29 19:00 / close = 129.791 / +1S = 130.135)
+
+[20180905_173821 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.29 20:00 / close = 129.687 / +1S = 130.117)
+[20180905_173821 / libfx.py:3286] setting the flag... (2018.08.29 21:00 / close = 129.752 / +1S = 130.099)
+[20180905_173821 / libfx.py:3226] bar => up. Close the position... (2018.08.29 22:00 / close = 129.897 / +1S = 130.078)
+
+[20180905_173821 / libfx.py:3286] setting the flag... (2018.08.29 23:00 / close = 130.281 / +1S = 130.100)
+[20180905_173821 / libfx.py:3226] bar => up. Close the position... (2018.08.30 00:00 / close = 130.569 / +1S = 130.174)
+
+[20180905_173821 / libfx.py:3286] setting the flag... (2018.08.30 01:00 / close = 130.777 / +1S = 130.277)
+[20180905_173821 / libfx.py:3226] bar => up. Close the position... (2018.08.30 02:00 / close = 130.795 / +1S = 130.366)
+
+[20180905_173821 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.30 03:00 / close = 130.606 / +1S = 130.419)
+[20180905_173821 / libfx.py:3286] setting the flag... (2018.08.30 04:00 / close = 130.668 / +1S = 130.475)
+[20180905_173822 / libfx.py:3226] bar => up. Close the position... (2018.08.30 05:00 / close = 130.727 / +1S = 130.535)
+
+[20180905_173822 / libfx.py:3286] setting the flag... (2018.08.30 06:00 / close = 130.739 / +1S = 130.591)
+[20180905_173822 / libfx.py:3226] bar => up. Close the position... (2018.08.30 07:00 / close = 130.824 / +1S = 130.653)
+
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.30 08:00 / close = 130.785 / +1S = 130.703)
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.30 09:00 / close = 130.778 / +1S = 130.749)
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.30 10:00 / close = 130.758 / +1S = 130.791)
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.30 11:00 / close = 130.612 / +1S = 130.819)
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.30 12:00 / close = 130.611 / +1S = 130.843)
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.30 13:00 / close = 130.588 / +1S = 130.858)
+[20180905_173822 / libfx.py:3286] setting the flag... (2018.08.30 14:00 / close = 130.631 / +1S = 130.870)
+[20180905_173822 / libfx.py:3249] bar => down. Hold position... (2018.08.30 15:00 / close = 130.505 / +1S = 130.869)
+[20180905_173822 / libfx.py:3226] bar => up. Close the position... (2018.08.30 16:00 / close = 130.711 / +1S = 130.862)
+
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.30 17:00 / close = 130.617 / +1S = 130.831)
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.30 18:00 / close = 130.391 / +1S = 130.785)
+[20180905_173822 / libfx.py:3286] setting the flag... (2018.08.30 19:00 / close = 130.500 / +1S = 130.773)
+[20180905_173822 / libfx.py:3226] bar => up. Close the position... (2018.08.30 20:00 / close = 130.511 / +1S = 130.773)
+
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.30 21:00 / close = 130.225 / +1S = 130.775)
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.30 22:00 / close = 130.037 / +1S = 130.781)
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.30 23:00 / close = 129.831 / +1S = 130.804)
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.31 00:00 / close = 129.813 / +1S = 130.807)
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.31 01:00 / close = 129.465 / +1S = 130.816)
+[20180905_173822 / libfx.py:3286] setting the flag... (2018.08.31 02:00 / close = 129.666 / +1S = 130.793)
+[20180905_173822 / libfx.py:3226] bar => up. Close the position... (2018.08.31 03:00 / close = 129.748 / +1S = 130.750)
+
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.31 04:00 / close = 129.526 / +1S = 130.709)
+[20180905_173822 / libfx.py:3286] setting the flag... (2018.08.31 05:00 / close = 129.617 / +1S = 130.658)
+[20180905_173822 / libfx.py:3249] bar => down. Hold position... (2018.08.31 06:00 / close = 129.527 / +1S = 130.603)
+[20180905_173822 / libfx.py:3226] bar => up. Close the position... (2018.08.31 07:00 / close = 129.520 / +1S = 130.556)
+
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.31 08:00 / close = 129.476 / +1S = 130.503)
+[20180905_173822 / libfx.py:3286] setting the flag... (2018.08.31 09:00 / close = 129.496 / +1S = 130.445)
+[20180905_173822 / libfx.py:3249] bar => down. Hold position... (2018.08.31 10:00 / close = 129.435 / +1S = 130.376)
+[20180905_173822 / libfx.py:3226] bar => up. Close the position... (2018.08.31 11:00 / close = 129.487 / +1S = 130.314)
+
+[20180905_173822 / libfx.py:3286] setting the flag... (2018.08.31 12:00 / close = 129.520 / +1S = 130.217)
+[20180905_173822 / libfx.py:3249] bar => down. Hold position... (2018.08.31 13:00 / close = 129.464 / +1S = 130.121)
+[20180905_173822 / libfx.py:3226] bar => up. Close the position... (2018.08.31 14:00 / close = 129.542 / +1S = 130.051)
+
+[20180905_173822 / libfx.py:3286] setting the flag... (2018.08.31 15:00 / close = 129.637 / +1S = 129.955)
+[20180905_173822 / libfx.py:3249] bar => down. Hold position... (2018.08.31 16:00 / close = 129.573 / +1S = 129.833)
+[20180905_173822 / libfx.py:3249] bar => down. Hold position... (2018.08.31 17:00 / close = 129.456 / +1S = 129.745)
+[20180905_173822 / libfx.py:3249] bar => down. Hold position... (2018.08.31 18:00 / close = 129.270 / +1S = 129.685)
+[20180905_173822 / libfx.py:3226] bar => up. Close the position... (2018.08.31 19:00 / close = 129.315 / +1S = 129.652)
+
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.31 20:00 / close = 129.211 / +1S = 129.622)
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.31 21:00 / close = 129.075 / +1S = 129.633)
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.31 22:00 / close = 128.933 / +1S = 129.631)
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.08.31 23:00 / close = 128.922 / +1S = 129.607)
+[20180905_173822 / libfx.py:3286] setting the flag... (2018.09.01 00:00 / close = 128.993 / +1S = 129.596)
+[20180905_173822 / libfx.py:3249] bar => down. Hold position... (2018.09.01 01:00 / close = 128.685 / +1S = 129.588)
+[20180905_173822 / libfx.py:3226] bar => up. Close the position... (2018.09.01 02:00 / close = 128.791 / +1S = 129.571)
+
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.09.01 03:00 / close = 128.776 / +1S = 129.550)
+[20180905_173822 / libfx.py:3305] bar is NOT up. flag stays False... (2018.09.01 04:00 / close = 128.725 / +1S = 129.529)
+[20180905_173823 / libfx.py:3286] setting the flag... (2018.09.01 05:00 / close = 128.932 / +1S = 129.500)
+[20180905_173823 / libfx.py:3226] bar => up. Close the position... (2018.09.01 06:00 / close = 128.966 / +1S = 129.474)
+
+[20180905_173823 / libfx.py:3286] setting the flag... (2018.09.03 07:00 / close = 128.819 / +1S = 129.440)
+[20180905_173823 / libfx.py:3226] bar => up. Close the position... (2018.09.03 08:00 / close = 128.944 / +1S = 129.400)
+
+[20180905_173823 / libfx.py:3305] bar is NOT up. flag stays False... (2018.09.03 09:00 / close = 128.902 / +1S = 129.363)
+[20180905_173823 / libfx.py:3305] bar is NOT up. flag stays False... (2018.09.03 10:00 / close = 128.711 / +1S = 129.311)
+[20180905_173823 / libfx.py:3286] setting the flag... (2018.09.03 11:00 / close = 128.748 / +1S = 129.236)
+[20180905_173823 / libfx.py:3249] bar => down. Hold position... (2018.09.03 12:00 / close = 128.621 / +1S = 129.161)
+[20180905_173823 / libfx.py:3226] bar => up. Close the position... (2018.09.03 13:00 / close = 128.626 / +1S = 129.095)
+
+[20180905_173823 / libfx.py:3286] setting the flag... (2018.09.03 14:00 / close = 128.711 / +1S = 129.052)
+[20180905_173823 / libfx.py:3335] cntOf_Total => 99
+[20180905_174213 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180905_174214 / libfx.py:1967] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-100.csv
+
+[20180906_100736 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_100738 / libfx.py:1967] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-100.csv
+
+[20180906_101758 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_101759 / libfx.py:1967] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-100.csv
+
+[20180906_103537 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_103538 / libfx.py:1967] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-100.csv
+
+[20180906_103922 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_103923 / libfx.py:1967] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-100.csv
+
+[20180906_104200 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_104201 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-100.csv
+
+[20180906_104333 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_104333 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-100.csv
+
+[20180906_104359 / views.py:2296] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_104400 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-100.csv
+
+[20180906_104812 / views.py:2297] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_104812 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-100.csv
+
+[20180906_104943 / views.py:2297] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_104944 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180906_105349 / views.py:2297] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_105350 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180906_105517 / views.py:2297] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_105517 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180906_105603 / views.py:2297] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_105604 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-100.csv
+
+[20180906_110257 / views.py:2297] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_110258 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-08.csv
+
+[20180906_110414 / views.py:2297] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_110414 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-08.csv
+
+[20180906_110829 / views.py:2297] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_110830 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-08.csv
+
+[20180906_111018 / views.py:2297] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_111018 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-08.csv
+
+[20180906_111337 / views.py:2297] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_111337 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180906_112105 / views.py:2297] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180906_112105 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-06.csv
+
+[20180908_101018 / views.py:2349] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_101019 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-06.csv
+
+[20180908_101316 / views.py:2349] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_101317 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_101626 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_101627 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_101653 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_101653 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_101654 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_102132 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_102133 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_102133 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_102150 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_102151 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_102151 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_103105 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_103106 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_103106 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_103133 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_103133 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_103133 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_103633 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_103634 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_103634 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_104239 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_104240 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_104240 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_104601 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_104602 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_104602 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_104738 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_104738 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_104739 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_104854 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_104855 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_104855 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_104922 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_104923 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_104923 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_110025 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_110026 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_110026 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_110638 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_110639 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_110639 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_110902 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_110903 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_110903 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_111325 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_111325 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_111325 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180908_111736 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180908_111738 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_111738 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180915_073636 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_073638 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_075947 / views.py:2350] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_075948 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_5_file-io.USDJPY.Period-M5.Days-26000.Bars-26000.20180721_160222.SHRINK-100.csv
+
+[20180915_080447 / views.py:2380] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_080824 / views.py:2385] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_081054 / views.py:2385] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_081127 / views.py:2385] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_081127 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_081127 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180915_081256 / views.py:2391] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_081257 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_081257 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180915_081401 / views.py:2396] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_081401 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_081401 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180915_081440 / views.py:2402] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_081441 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_081441 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180915_081828 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_081829 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_081829 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180915_082130 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_082202 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_082203 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_082203 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180915_121205 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_121205 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_121217 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_121239 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_122120 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_122344 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_122406 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_123637 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_123704 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_123725 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_123858 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_123908 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_123913 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_123914 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_123914 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180915_123959 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_124000 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_124000 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180915_124042 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_124043 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_124043 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180915_124052 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_124219 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_124420 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_124606 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_124609 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_124610 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_124610 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180915_124719 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_124719 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_124719 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180915_125149 / views.py:2433] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_130051 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_130054 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_130055 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_130617 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_130618 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_130713 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_130714 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_131006 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_131007 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_131054 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_131055 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_132152 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_132152 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_132847 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_132848 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_133551 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_133552 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180915_133700 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180915_133701 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180916_103830 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_103911 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_103911 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180916_105101 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_105102 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180916_105350 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_105351 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180916_105557 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_105558 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-08.csv
+
+[20180916_110050 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_110051 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-08.csv
+
+[20180916_110430 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_110431 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-08.csv
+
+[20180916_110532 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_110533 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-08.csv
+
+[20180916_110735 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_110736 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-08.csv
+
+[20180916_111010 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_111011 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180916_111927 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_111928 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180916_112906 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_112907 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180916_113021 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_113022 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180916_113443 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_113444 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180916_113616 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_113617 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180916_114551 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_114552 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180916_114621 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_114622 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180916_114745 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_114746 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180916_115018 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_115019 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180916_115841 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_115842 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180916_120003 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_120004 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180916_120136 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180916_120137 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180917_080046 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_080058 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_080058 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180917_080335 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_080342 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_081324 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_081406 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_081445 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_081546 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_081547 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180917_081657 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_082056 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_082904 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_082954 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_083341 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_083348 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_083348 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180917_083433 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_083638 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_083650 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_084002 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_084341 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_084405 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_084409 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_084409 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180917_084410 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180917_084436 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_084436 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180917_084436 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180917_085126 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_085226 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_085236 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_085354 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_085359 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180917_085359 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180917_085359 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180918_133210 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_133239 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_133240 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180918_133241 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908
+[20180918_134647 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_134751 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_134754 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_135338 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_135614 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_135643 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_135751 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_135817 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_135958 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_140049 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_140705 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_140845 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================

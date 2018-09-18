@@ -1,0 +1,84 @@
+<!-- <div id="div_Numbering_Content"> -->
+
+	<div id = "div_Title_BuildHistory">
+	    
+	    DeNumbering
+	
+	</div>
+	
+	<div>
+	
+	    <input value="{{ MAIN_DIR }}" id="ipt_DeNumbering_MainDir"/>
+	    
+	
+	</div>
+	
+	<!-- <div> -->
+
+	<div id="div_DeNumbering_Content">
+	
+		<table id="tbl_Mm_DeNumbering_Actions">
+		
+		    <tr>
+		        
+		        <th>
+		            No.
+		        </th>
+		            
+		        <th>
+		        
+		            Commands
+		            
+		        </th>
+		    
+		        <th>
+		        
+		            Action
+		        
+		        </th>
+		    
+		    </tr>
+		
+		    {% for item in lo_Files %}
+		    <tr>
+		        
+		        <td>
+		            {{forloop.counter}}
+		        </td>
+		    
+		        <td>
+		            {{ item }}
+		        </td>
+		    
+		        <td>
+		        
+		            <button 
+			                onclick="exec_DeNumbering('{{ item }}')"
+			                class = "bt_Numbering_List"
+			                id = "{{ forloop.counter0 }}"
+		                >
+		            
+		                GO
+		            <!-- onclick="exec_Numbering('{{ item }}')" -->
+		            <!-- id = "bt_Exec_Numbering_{{ forloop.counter0 }}" -->
+		            </button>
+		        
+		        </td>
+		    
+		    </tr>
+		    
+		    {% endfor %}
+		    
+		</table>
+	
+	</div>
+	
+	<div id = "numbering_content_Message_Area">
+	
+	</div>
+<!-- </div> -->
+<!-- <div id="div_Numbering_Content"> -->
+
+
+
+

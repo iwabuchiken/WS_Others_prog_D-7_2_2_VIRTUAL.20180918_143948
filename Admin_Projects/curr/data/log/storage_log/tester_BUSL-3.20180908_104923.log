@@ -1,0 +1,8 @@
+[20180908_104923 / libfx.py:3526] _BUSL_3__Expert__Above_BB_1S__20180903(lo_BarDatas) => starts -------------
+file = 44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+
+[20180908_104923 / libfx.py:3569] lenOf_LO_BarDatas => 200
+[20180908_104923 / libfx.py:3695] cntOf_Total = 199, cntOf_Up = 111 (of total : 55.78%), cntOf_Down = 87 (of total : 43.72%), cntOf_Zero = 1 (of total : 0.50%)
+[20180908_104923 / libfx.py:3710] file = 44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.SHRINK-200.csv
+[20180908_104923 / libfx.py:3731] BUSL_3 ==> done (20180908_104923)(elapsed = 0.114 sec)
+

@@ -1,0 +1,159 @@
+[2018/02/16 10:50:05 : pattern match] ======================
+[2018/02/16 10:50:48 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+[2018/02/16 10:52:20 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+[2018/02/16 10:52:56 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 0.050 / threshHold_Down = 0.100
+[2018/02/16 10:53:56 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 0.050 / threshHold_Down = 0.100
+num of matched : 0
+
+
+[2018/02/16 10:56:48 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 0.030 / threshHold_Down = 0.100
+num of matched : 0
+
+
+[2018/02/16 10:56:48 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 0.030 / threshHold_Down = 0.100
+num of matched : 0
+
+
+[2018/02/16 10:56:49 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 0.030 / threshHold_Down = 0.100
+num of matched : 0
+
+
+[2018/02/16 10:56:56 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 25.000 / threshHold_Down = 0.100
+num of matched : 0
+
+
+[2018/02/16 10:57:49 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 0.050 / threshHold_Down = 0.100
+num of matched : 0
+
+
+[2018/02/16 10:59:00 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 0.030 / threshHold_Down = 0.100
+num of matched : 0
+
+
+[2018/02/16 10:59:42 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 0.010 / threshHold_Down = 0.100
+num of matched : 3
+
+[2018/02/16 11:03:26 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 0.010 / threshHold_Down = 0.100
+num of matched : 3
+[views.py:252] datetime : 2017.12.30 05:00 / diff = 0.028
+[views.py:252] datetime : 2017.12.30 04:00 / diff = 0.013
+[views.py:252] datetime : 2017.12.30 03:00 / diff = 0.063
+
+[views.py:252] datetime : 2017.12.28 07:00 / diff = 0.042
+[views.py:252] datetime : 2017.12.28 06:00 / diff = 0.054
+[views.py:252] datetime : 2017.12.28 05:00 / diff = 0.025
+
+[views.py:252] datetime : 2017.12.26 09:00 / diff = 0.035
+[views.py:252] datetime : 2017.12.26 08:00 / diff = 0.011
+[views.py:252] datetime : 2017.12.26 07:00 / diff = 0.034
+
+
+
+[2018/05/01 15:21:32 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 25.000 / threshHold_Down = 0.100
+num of matched : 0
+
+
+[2018/05/01 15:21:44 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 0.100 / threshHold_Down = 0.100
+num of matched : 0
+
+
+[2018/05/01 15:21:53 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 0.050 / threshHold_Down = 0.100
+num of matched : 0
+
+
+[2018/05/01 15:22:08 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 0.010 / threshHold_Down = 0.100
+num of matched : 3
+[views.py:252] datetime : 2017.12.30 05:00 / diff = 0.028
+[views.py:252] datetime : 2017.12.30 04:00 / diff = 0.013
+[views.py:252] datetime : 2017.12.30 03:00 / diff = 0.063
+
+[views.py:252] datetime : 2017.12.28 07:00 / diff = 0.042
+[views.py:252] datetime : 2017.12.28 06:00 / diff = 0.054
+[views.py:252] datetime : 2017.12.28 05:00 / diff = 0.025
+
+[views.py:252] datetime : 2017.12.26 09:00 / diff = 0.035
+[views.py:252] datetime : 2017.12.26 08:00 / diff = 0.011
+[views.py:252] datetime : 2017.12.26 07:00 / diff = 0.034
+
+
+
+[2018/05/01 18:12:44 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 25.000 / threshHold_Down = 0.100
+num of matched : 0
+
+
+[2018/05/01 18:16:58 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 25.000 / threshHold_Down = 0.100
+num of matched : 0
+
+
+[2018/05/01 18:17:10 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 25.000 / threshHold_Down = 0.100
+num of matched : 0
+
+
+[2018/05/01 18:20:30 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 0.100 / threshHold_Down = 0.100
+num of matched : 0
+
+
+[2018/05/01 18:21:06 : pattern match] ======================
+file : 49_11_file-io.USDJPY.Period-H1.Days-100.Bars-17280.20171231_233726.csv
+updown pattern : 1,1,1
+threshHold_Up = 0.100 / threshHold_Down = 0.100
+num of matched : 0
+
+

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Current Time</title>
+
+    <!-- ref https://overiq.com/django/1.10/handling-static-content-in-django/#loading-static-files -->    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
+    
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'im/css/reset.css' %}">
+    
+    <link rel="stylesheet" href="{% static 'im/css/style.css' %}">
+    
+    <link rel="stylesheet" href="{% static 'im/css/main.css' %}">
+    
+    <script src="{% static 'im/js/jquery.js' %}"></script>
+    
+    <script src="{% static 'im/js/main.js' %}"></script>
+    
+</head>
+<body>
+
+    {# This is a comment #}
+
+    {# check the existence of now variable in the template using if tag #}
+
+    {% if now %}   
+        <p>Current date and time is {{ now }}</p>
+    {% else %}               
+        <p>now variable is not available</p>
+    {% endif %}
+
+    <p class="current_Scheme">Current scheme: {{ request.scheme }}</p>
+    
+    <!-- <p>request: <button onlcick="show_Message({{ request }});">show</button></p> -->
+    <!-- <p>request: <button onlcick="show_Message('{{ request }}');">show</button></p> -->
+    <p>request: {{ request }}</p>
+    
+    <!-- ref http://docs.python-requests.org/en/master/api/ -->
+    
+    <p>request.method: {{ request.method }}</p>
+    
+    <p>request.data: {{ request.data }}</p>
+    
+    <p>request.header: {{ request.header }}</p>
+    
+    <button onclick="show_Message('request.header => ');">request.header: {{ request.header }}</button>
+
+</body>
+</html>

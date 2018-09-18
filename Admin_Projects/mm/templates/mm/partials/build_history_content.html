@@ -1,0 +1,110 @@
+<!-- <div id="div_Numbering_Content"> -->
+
+	<div id = "div_Title_BuildHistory">
+	    
+	    Build history
+	
+	</div>
+	
+	<div>
+	
+	    <input value="{{ MAIN_DIR }}" id="ipt_Numbering_MainDir"/>
+	    
+	
+	</div>
+	
+	<!-- <div> -->
+
+<div id="div_MM_BuildHistory_Options">
+
+	<div id="div_MM_BuildHistory_SortKey">
+	
+	    <label>HISTORY sorted by</label>
+	    <input 
+	            id="ipt_MM_BuildHistory_SortKey"
+	            value="CREATED"
+	        />
+	
+    </div>
+
+    <div id="div_MM_BuildHistory_NumOfHistories">
+    
+        <label>Num of HISTORYs</label>
+        <input 
+                id="ipt_MM_BuildHistory_NumOfHistories"
+                value="10"
+            />
+    
+    </div>
+    
+
+</div>
+
+	<div id="div_Numbering_Content">
+	
+		<table id="tbl_Mm_Numbering_Actions">
+		
+		    <tr>
+		        
+		        <th>
+		            No.
+		        </th>
+		            
+		        <th>
+		        
+		            Commands
+		            
+		        </th>
+		    
+		        <th>
+		        
+		            Action
+		        
+		        </th>
+		    
+		    </tr>
+		
+		    {% for item in lo_Files %}
+		    <tr>
+		        
+		        <td>
+		            {{forloop.counter}}
+		        </td>
+		    
+		        <td>
+		            {{ item }}
+		        </td>
+		    
+		        <td>
+		        
+		            <button 
+			                onclick="exec_BuildHistory('{{ item }}')"
+			                class = "bt_Numbering_List"
+			                id = "{{ forloop.counter0 }}"
+		                >
+		            
+		                GO
+		            <!-- onclick="exec_Numbering('{{ item }}')" -->
+		            <!-- id = "bt_Exec_Numbering_{{ forloop.counter0 }}" -->
+		            </button>
+		        
+		        </td>
+		    
+		    </tr>
+		    
+		    {% endfor %}
+		    
+		</table>
+	
+	</div>
+	
+	
+	<div id = "numbering_content_Message_Area">
+	
+	</div>
+<!-- </div> -->
+<!-- <div id="div_Numbering_Content"> -->
+
+
+
+
