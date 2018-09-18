@@ -840,3 +840,18 @@ starting : tester_BuyUps_SellLows =======================
 [20180918_140845 / views.py:2516] 
 
 starting : tester_BuyUps_SellLows =======================
+[20180918_220443 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_220449 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_221328 / views.py:2516] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_222927 / views.py:2608] 
+
+starting : tester_BuyUps_SellLows =======================
+[20180918_222940 / libfx.py:1970] fname_In => C:\WORKS_2\WS\WS_Others\prog\D-7\2_2\VIRTUAL\Admin_Projects\curr\data\csv_raw/44_3.2_15_file-io.EURJPY.Period-H1.Days-5000.Bars-120000.20180903_135341.2018-07.csv
+
+[20180918_222941 / libfx.py:3496] starting : _BUSL_3__Util__1_UpsDowns_In_BB_Ranges__exec_20180908

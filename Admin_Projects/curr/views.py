@@ -1959,8 +1959,100 @@ def __tester_BuyUps_SellLows__BUSL_3__Expert__Over_BB_1S(request):
 
 #/ def __tester_BuyUps_SellLows__BUSL_3__Expert__Over_BB_1S(request):
 
-def __tester_BuyUps_SellLows__BUSL_3__Utils_1_UpsDowns_In_BB_Ranges(request):
+'''###################
+    __tester_BuyUps_SellLows__BUSL_3__Utils_1_UpsDowns_In_BB_Ranges__V2
     
+    @return: 
+        (-1, msg) ==> csv file doesn't exist
+        (1, msg) ==> up-down stats --> created
+            
+###################'''
+def __tester_BuyUps_SellLows__BUSL_3__Utils_1_UpsDowns_In_BB_Ranges__V2(\
+            dpath_CSV_File, fname_CSV_File):
+
+    '''###################
+        vars
+    ###################'''
+    dic = {}
+    
+    '''###################
+        prep
+    ###################'''
+    fname = fname_CSV_File
+    dpath = dpath_CSV_File
+#     fname = cons_fx.FPath.BUSL_3_FNAME_PEAK_LIST.value
+#     dpath = cons_fx.FPath.BUSL_3_DPATH_PEAK_LIST.value
+    
+    # validate
+    fpath_Full = os.path.join(dpath, fname)
+    
+    if not os.path.isfile(fpath_Full) : #if not os.path.isfile(fpath_Full)
+    
+        print("[%s:%d] csv file --> NOT exist : %s" % \
+            (os.path.basename(libs.thisfile()), libs.linenum()
+            , fpath_Full
+            ), file=sys.stderr)
+        
+        # return
+        '''###################
+            message
+        ###################'''
+        msg = "CSV NOT EXIST : %s" % fpath_Full
+#         dic['message'] = "CSV NOT EXIST : %s" % fpath_Full
+        
+#         '''###################
+#             pages
+#         ###################'''
+#         render_Page = 'curr/busl_2.html'
+#         render_Page_full = 'curr/busl_2_full.html'
+        
+        '''###################
+            return        
+        ###################'''
+        return -1, msg
+#         return render_Page, render_Page_full, dic
+    
+    
+    '''###################
+        get : list of BarDatas
+    ###################'''
+    header_Length   = 2
+    skip_Header     = False
+    
+    lo_BarDatas, lo_CSVs = libfx.get_Listof_BarDatas_2(
+                        dpath, fname, header_Length, skip_Header)
+    
+    print()
+    print("[%s:%d] len(lo_BarDatas) => %d" % \
+                        (os.path.basename(libs.thisfile()), libs.linenum()
+                        , len(lo_BarDatas)
+                        ), file=sys.stderr)
+    
+    '''###################
+        op : BUSL_3
+    ###################'''
+    libfx.BUSL_3__Util__1_UpsDowns_In_BB_Ranges(lo_BarDatas, fname)
+#     libfx.BUSL_3__Expert__Over_BB_1S(lo_BarDatas, fname)
+#     libfx.BUSL_3__Expert__Over_BB_1S(lo_BarDatas)
+    
+#     '''###################
+#         pages
+#     ###################'''
+#     render_Page = 'curr/busl_2.html'
+#     render_Page_full = 'curr/busl_2_full.html'
+    
+    '''###################
+        return        
+    ###################'''
+    msg = "done for : %s" % fpath_Full
+    
+    return 1, msg
+#     return render_Page, render_Page_full, dic
+
+#/ __tester_BuyUps_SellLows__BUSL_3__Utils_1_UpsDowns_In_BB_Ranges(request)
+
+def __tester_BuyUps_SellLows__BUSL_3__Utils_1_UpsDowns_In_BB_Ranges(request):
+
     '''###################
         vars
     ###################'''
@@ -2656,7 +2748,36 @@ def tester_BuyUps_SellLows(request):
     
     pass
 
+def _tester_BuyUps_SellLows__V2__Param_1__NumOfUpDownBars(request):
+    
+    '''###################
+        params        
+    ###################'''
+    fname_CSV_File = cons_fx.FPath.BUSL_3_FNAME_PEAK_LIST.value
+    dpath_CSV_File = cons_fx.FPath.BUSL_3_DPATH_PEAK_LIST.value
+
+    '''###################
+        execute        
+        
+        (-1, msg) ==> csv file doesn't exist
+        (1, msg) ==> up-down stats --> created
+    ###################'''
+    (status, msg) = __tester_BuyUps_SellLows__BUSL_3__Utils_1_UpsDowns_In_BB_Ranges__V2(\
+        dpath_CSV_File, fname_CSV_File)
+    
+    '''###################
+        return        
+    ###################'''
+    return (status, msg)
+    
+#/ def _tester_BuyUps_SellLows__V2__Param_1__NumOfUpDownBars(request):
+    
 def tester_BuyUps_SellLows__V2(request):
+    
+    '''###################
+        time        
+    ###################'''
+    time_Exec_Start = time.time()
     
     '''###################
         vars
@@ -2689,6 +2810,7 @@ def tester_BuyUps_SellLows__V2(request):
         message
     ###################'''
     dic['message'] = "param is ===> '%s'" % param
+    dic['message_2'] = ""
     
     '''###################
         dispatch
@@ -2696,7 +2818,12 @@ def tester_BuyUps_SellLows__V2(request):
     if param == (cons_fx.Tester.lo_Actions__BUSL__IDs.value)[0] : #if param == cons_fx.Tester.lo_Actions__BUSL__IDs[0].value
 #     if param == cons_fx.Tester.lo_Actions__BUSL__IDs[0].value : #if param == cons_fx.Tester.lo_Actions__BUSL__IDs[0].value
         
+        # call func
+        (status, msg) = _tester_BuyUps_SellLows__V2__Param_1__NumOfUpDownBars(request)
+        
         dic['message'] += "(num of up bars and down bars in each of BB areas)"
+        
+        dic['message_2'] += "status = %d / msg = '%s'" % (status, msg)
         
     elif param == (cons_fx.Tester.lo_Actions__BUSL__IDs.value)[1] : #if param == cons_fx.Tester.lo_Actions__BUSL__IDs[0].value : #if param == cons_fx.Tester.lo_Actions__BUSL__IDs[0].value
 #     elif param == cons_fx.Tester.lo_Actions__BUSL__IDs[1].value : #if param == cons_fx.Tester.lo_Actions__BUSL__IDs[0].value : #if param == cons_fx.Tester.lo_Actions__BUSL__IDs[0].value
@@ -2709,7 +2836,14 @@ def tester_BuyUps_SellLows__V2(request):
     
     #/if param == cons_fx.Tester.lo_Actions__BUSL__IDs[0].value
         
-        
+    '''###################
+        time        
+    ###################'''
+    time_Exec_Elapsed = time.time() - time_Exec_Start
+
+    dic['message_2'] += "(time = %s) (elapsed = %02.3f sec)" % \
+                        (libs.get_TimeLabel_Now(), time_Exec_Elapsed)
+
     
     '''###################
         render
